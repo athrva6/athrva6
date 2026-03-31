@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Khairnar</h1>
 <h3 align="center">Tech-driven B.Tech Computer Science student passionate about building innovative solutions and real-world applications.</h3>
 
-- 🌱 I’m currently learning **DBMS,AI**
+- 🌱 I’m currently learning **DBMS,AI**,Devops
 
 - 👨‍💻 All of my projects are available at [https://athrva6.github.io/myportfolio/](https://athrva6.github.io/myportfolio/)
 
